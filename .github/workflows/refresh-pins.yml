@@ -1,0 +1,60 @@
+name: Refresh recently pushed pins
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, off the hour
+  workflow_dispatch: # manual run from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update recently pushed pins
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          repos=$(gh api "users/$OWNER/repos?per_page=100&sort=pushed" \
+            --jq '.[] | select(.fork == false) | .name' \
+            | grep -vx "$OWNER" \
+            | head -n 4)
+          echo "Top 4 recently pushed: $repos"
+
+          pin_block=$(echo "$repos" | while read -r repo; do
+            [ -z "$repo" ] && continue
+            printf '  <a href="https://github.com/%s/%s"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=%s&repo=%s&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="%s" /></a>\n' "$OWNER" "$repo" "$OWNER" "$repo" "$repo"
+          done)
+
+          python3 - "$pin_block" << 'PYEOF'
+import sys, re, pathlib
+block = sys.argv[1]
+p = pathlib.Path("README.md")
+content = p.read_text(encoding="utf-8")
+new = re.sub(
+    r"(<!-- RECENT_PINS:START[^>]*-->\n).*?(<!-- RECENT_PINS:END -->)",
+    lambda m: m.group(1) + block + "\n" + m.group(2),
+    content,
+    flags=re.S,
+)
+if new != content:
+    p.write_text(new, encoding="utf-8")
+    print("README updated")
+else:
+    print("No change")
+PYEOF
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "refresh recently pushed pins"
+          git push

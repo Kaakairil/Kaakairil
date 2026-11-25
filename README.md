@@ -1,110 +1,122 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&section=header&text=Wildan%20Akmal&fontSize=42&fontColor=ffffff&fontAlignY=55" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3D5A3C,100:6B8F5E&height=160&section=header&text=Wildan%20Akmal%20Khairillah&fontSize=40&fontColor=FFF9F1&fontAlignY=42&desc=quant%20research%20%C2%B7%20calibration%20%C2%B7%20building%20things&descSize=16&descAlignY=68&descColor=E8DFD3" alt="banner" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=760&lines=Quant+research+%26+options+pricing;Probability+calibration+under+missing+data;Web+and+desktop+apps+with+Python%2C+PHP+and+JavaScript" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=500&size=20&pause=1200&color=3D5A3C&center=true&vCenter=true&width=720&lines=Options+pricing+%26+volatility+surfaces;Probability+calibration+under+missing+data;Web+and+desktop+apps+with+Python%2C+PHP+and+JavaScript" alt="typing" />
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Khairil-12?style=flat-square&label=Followers&color=000000" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=Khairil-12&style=flat-square&color=000000&label=Profile+views" alt="views" />
+  <a href="https://github.com/Kaakairil?tab=followers"><img src="https://img.shields.io/github/followers/Kaakairil?style=flat&labelColor=2B2622&color=3D5A3C&label=Followers" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kaakairil&style=flat&labelColor=2B2622&color=3D5A3C&label=Profile+views" alt="views" />
 </p>
+
 ---
- 
-## 💫 About Me
- 
-🎓 Student at Universitas Teknologi Yogyakarta  
-📈 Working on quantitative finance: derivatives pricing, volatility, and probability calibration  
-🧪 I build projects to answer one question properly, then write down what I found, including what didn't work  
-🌐 Also building web apps and desktop tools  
+
+## 🌿 About
+
+🎓 Informatics student at Universitas Teknologi Yogyakarta
+📈 Working on quantitative finance: derivatives pricing, volatility, and probability calibration
+🧪 I build projects to answer one question properly, then write down what I found — including what didn't work
+🌐 Also building web apps and desktop tools
 🇮🇩 Saya mahasiswa yang tertarik pada matematika, data, dan pemrograman
- 
+
 ---
- 
+
 ## 🔬 Current Focus
- 
+
 - **Options pricing and volatility surface (VolSurf):** Black-Scholes, binomial, and Monte Carlo pricers, American implied volatility for SPY, and no-arbitrage checks.
 - **Calibration under missing data (CalibMiss):** how probability forecasts degrade under MCAR and MAR missingness, and whether imputation and calibration recover them.
 - **Decision-making methods:** applying structured decision analysis to real problems.
+
 ---
- 
-## 🚀 Featured Projects
- 
+
+## 🚀 Recently Pushed
+
 <p align="center">
-  <a href="https://github.com/Khairil-12/Pricing_and_Volatility_Surface"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Khairil-12&repo=Pricing_and_Volatility_Surface&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Pricing and Volatility Surface" /></a>
-  <a href="https://github.com/Khairil-12/Calibrated-return-forecasts-under-missing-data"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Khairil-12&repo=Calibrated-return-forecasts-under-missing-data&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Return Calibration" /></a>
-  <a href="https://github.com/Khairil-12/Hospital-System-With-GUI-Tkinter"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Khairil-12&repo=Hospital-System-With-GUI-Tkinter&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Hospital System" /></a>
-  <a href="https://github.com/Khairil-12/Web-ecommerce-kopi-FE"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Khairil-12&repo=Web-ecommerce-kopi-FE&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="Coffee Shop E-commerce" /></a>
+  <!-- RECENT_PINS:START (auto-refreshed by workflow) -->
+  <a href="https://github.com/Kaakairil/Pricing_and_Volatility_Surface"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Pricing_and_Volatility_Surface&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Pricing and Volatility Surface" /></a>
+  <a href="https://github.com/Kaakairil/Web-ecommerce-kopi-FE"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Web-ecommerce-kopi-FE&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Coffee Shop E-commerce" /></a>
+  <a href="https://github.com/Kaakairil/Calibrated-return-forecasts-under-missing-data"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Calibrated-return-forecasts-under-missing-data&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Return Calibration" /></a>
+  <a href="https://github.com/Kaakairil/Rapids-Rush-Evolve-or-Drown"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Rapids-Rush-Evolve-or-Drown&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Rapids Rush" /></a>
+  <!-- RECENT_PINS:END -->
 </p>
+
 ---
- 
+
 ## 🐍 Contribution Snake
- 
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
     <img alt="contribution snake" src="dist/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ---
- 
-## 💻 Tech Stack
- 
+
+## 🧰 Tech Stack
+
 ### Languages
- 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-FFF9F1?style=flat-square&logo=python&logoColor=3D5A3C&labelColor=2B2622" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF9F1?style=flat-square&logo=javascript&logoColor=3D5A3C&labelColor=2B2622" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-FFF9F1?style=flat-square&logo=typescript&logoColor=3D5A3C&labelColor=2B2622" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-FFF9F1?style=flat-square&logo=html5&logoColor=3D5A3C&labelColor=2B2622" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-FFF9F1?style=flat-square&logo=css3&logoColor=3D5A3C&labelColor=2B2622" alt="CSS" />
+  <img src="https://img.shields.io/badge/PHP-FFF9F1?style=flat-square&logo=php&logoColor=3D5A3C&labelColor=2B2622" alt="PHP" />
 </p>
+
 ### Quant and data
- 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-000000?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/LightGBM-000000?style=flat-square" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/NumPy-FFF9F1?style=flat-square&logo=numpy&logoColor=3D5A3C&labelColor=2B2622" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-FFF9F1?style=flat-square&logo=scipy&logoColor=3D5A3C&labelColor=2B2622" alt="SciPy" />
+  <img src="https://img.shields.io/badge/pandas-FFF9F1?style=flat-square&logo=pandas&logoColor=3D5A3C&labelColor=2B2622" alt="pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-FFF9F1?style=flat-square&logo=scikitlearn&logoColor=3D5A3C&labelColor=2B2622" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/LightGBM-FFF9F1?style=flat-square&labelColor=2B2622" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Matplotlib-FFF9F1?style=flat-square&labelColor=2B2622" alt="Matplotlib" />
 </p>
+
 ### Frameworks and tools
- 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square&logo=python&logoColor=white" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/React-FFF9F1?style=flat-square&logo=react&logoColor=3D5A3C&labelColor=2B2622" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-FFF9F1?style=flat-square&logo=nodedotjs&logoColor=3D5A3C&labelColor=2B2622" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-FFF9F1?style=flat-square&logo=flask&logoColor=3D5A3C&labelColor=2B2622" alt="Flask" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FFF9F1?style=flat-square&logo=tailwindcss&logoColor=3D5A3C&labelColor=2B2622" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tkinter-FFF9F1?style=flat-square&logo=python&logoColor=3D5A3C&labelColor=2B2622" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/MySQL-FFF9F1?style=flat-square&logo=mysql&logoColor=3D5A3C&labelColor=2B2622" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Jupyter-FFF9F1?style=flat-square&logo=jupyter&logoColor=3D5A3C&labelColor=2B2622" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-FFF9F1?style=flat-square&logo=git&logoColor=3D5A3C&labelColor=2B2622" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-FFF9F1?style=flat-square&logo=github&logoColor=3D5A3C&labelColor=2B2622" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-FFF9F1?style=flat-square&logo=visualstudiocode&logoColor=3D5A3C&labelColor=2B2622" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-FFF9F1?style=flat-square&logo=figma&logoColor=3D5A3C&labelColor=2B2622" alt="Figma" />
 </p>
+
 ---
- 
+
 ## 📊 GitHub Stats
- 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khairil-12&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khairil-12&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaakairil&show_icons=true&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaakairil&layout=compact&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&border_color=DDD6CC&hide_border=false" alt="top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khairil-12&hide_border=false&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&border=000000&stroke=000000&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Kaakairil&hide_border=false&background=FFF9F1&ring=3D5A3C&fire=6B8F5E&currStreakLabel=2B2622&border=DDD6CC&stroke=DDD6CC&sideNums=2B2622&currStreakNum=3D5A3C&sideLabels=57534E&dates=57534E" alt="streak" />
 </p>
+
 ---
- 
+
 ## 📫 Contact
- 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/wildan-akmal-003292294/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/ryllnofek/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:wildanakmalk3023@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/wildan-akmal-003292294/"><img src="https://img.shields.io/badge/LinkedIn-FFF9F1?style=flat-square&logo=linkedin&logoColor=FFF9F1&labelColor=3D5A3C" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ryllnofek/"><img src="https://img.shields.io/badge/Instagram-FFF9F1?style=flat-square&logo=instagram&logoColor=FFF9F1&labelColor=3D5A3C" alt="Instagram" /></a>
+  <a href="mailto:wildanakmalk3023@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFF9F1?style=flat-square&logo=gmail&logoColor=FFF9F1&labelColor=3D5A3C" alt="Gmail" /></a>
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3D5A3C,100:6B8F5E&height=60&section=footer" alt="footer" />
 </p>
- 
