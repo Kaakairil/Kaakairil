@@ -34,22 +34,22 @@ jobs:
           done)
 
           python3 - "$pin_block" << 'PYEOF'
-import sys, re, pathlib
-block = sys.argv[1]
-p = pathlib.Path("README.md")
-content = p.read_text(encoding="utf-8")
-new = re.sub(
-    r"(<!-- RECENT_PINS:START[^>]*-->\n).*?(<!-- RECENT_PINS:END -->)",
-    lambda m: m.group(1) + block + "\n" + m.group(2),
-    content,
-    flags=re.S,
-)
-if new != content:
-    p.write_text(new, encoding="utf-8")
-    print("README updated")
-else:
-    print("No change")
-PYEOF
+          import sys, re, pathlib
+          block = sys.argv[1]
+          p = pathlib.Path("README.md")
+          content = p.read_text(encoding="utf-8")
+          new = re.sub(
+              r"(<!-- RECENT_PINS:START[^>]*-->\n).*?(<!-- RECENT_PINS:END -->)",
+              lambda m: m.group(1) + block + "\n" + m.group(2),
+              content,
+              flags=re.S,
+          )
+          if new != content:
+              p.write_text(new, encoding="utf-8")
+              print("README updated")
+          else:
+              print("No change")
+          PYEOF
 
       - name: Commit generated files
         run: |
