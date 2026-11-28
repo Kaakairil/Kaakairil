@@ -35,10 +35,10 @@
 
 <p align="center">
   <!-- RECENT_PINS:START (auto-refreshed by workflow) -->
+  <a href="https://github.com/Kaakairil/Assignment_Jaringan-Syaraf-Tiruan_Single-Layer-Perceptron"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Assignment_Jaringan-Syaraf-Tiruan_Single-Layer-Perceptron&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Assignment_Jaringan-Syaraf-Tiruan_Single-Layer-Perceptron" /></a>
   <a href="https://github.com/Kaakairil/Assignment_Pemrosesan-Teks-MiniProject"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Assignment_Pemrosesan-Teks-MiniProject&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Assignment_Pemrosesan-Teks-MiniProject" /></a>
   <a href="https://github.com/Kaakairil/Assignment-Text-Processing-Meet-8-lexicon-llm-labeling"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Assignment-Text-Processing-Meet-8-lexicon-llm-labeling&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Assignment-Text-Processing-Meet-8-lexicon-llm-labeling" /></a>
   <a href="https://github.com/Kaakairil/Calibrated-return-forecasts-under-missing-data"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Calibrated-return-forecasts-under-missing-data&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Calibrated-return-forecasts-under-missing-data" /></a>
-  <a href="https://github.com/Kaakairil/Pricing_and_Volatility_Surface"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kaakairil&repo=Pricing_and_Volatility_Surface&bg_color=FFF9F1&title_color=2B2622&text_color=57534E&icon_color=3D5A3C&border_color=DDD6CC&hide_border=false" alt="Pricing_and_Volatility_Surface" /></a>
 <!-- RECENT_PINS:END -->
 </p>
 
